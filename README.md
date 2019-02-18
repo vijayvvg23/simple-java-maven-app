@@ -18,4 +18,4 @@ the "Deliver" stage of your Pipeline.
 
 
 Test for auto build
-Update on 18Jan
+Update on 18Jan 
